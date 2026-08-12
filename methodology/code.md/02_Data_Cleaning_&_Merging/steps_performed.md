@@ -1,0 +1,5 @@
+- Cleaned and standardised datasets from Reddit, App Store, and Kaggle sources.
+- Combined datasets into a unified review dataset.
+- Standardised column names and formats across sources.
+- Removed irrelevant or duplicate records.
+- Prepared the dataset for sentiment analysis and classification.
