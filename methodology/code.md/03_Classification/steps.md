@@ -1,0 +1,3 @@
+- Initial classification was done on entire dataset
+- After checking, it was noted that Reddit categories were not as relevant, so a more advanced classifier tool was used only for Reddit
+- For categories, Account Issues, UX Issues and UX positive, subcategories were created
