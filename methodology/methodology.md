@@ -25,7 +25,7 @@ The multi-source approach was used to combine structured customer feedback (app 
 
 ---
 
-# 2. Reddit Data Collection
+# Reddit Data Collection
 
 Reddit data was collected to capture detailed user experiences, discussions, and complaints surrounding Bumble.
 
@@ -51,7 +51,7 @@ The final Reddit dataset focused on discussions directly related to:
 
 ---
 
-# 3. App Review Data Collection
+# App Review Data Collection
 
 App review data was collected from Google Play and App Store sources.
 
@@ -68,7 +68,7 @@ All datasets were standardised and merged into a unified analysis dataset.
 
 ---
 
-# 4. Data Preparation
+# 2. Data Preparation
 
 Data preparation involved:
 
@@ -82,7 +82,7 @@ Separate datasets were maintained where necessary because Reddit discussions and
 
 ---
 
-# 5. Sentiment Analysis
+# 3. Sentiment Analysis
 
 A hybrid sentiment approach was used depending on the data source.
 
@@ -123,7 +123,7 @@ This allowed classification to consider the wider discussion context rather than
 
 ---
 
-# 6. User Theme Classification
+# 4. User Theme Classification
 
 Sentiment analysis identifies whether users are positive or negative, but does not explain the underlying reason.
 
@@ -172,7 +172,7 @@ Examples:
 
 ---
 
-# 7. Classification Approach
+# 5. Classification Approach
 
 A hybrid human-in-the-loop classification process was used.
 
@@ -215,7 +215,7 @@ Classification outputs were then reviewed and refined through quality checks.
 
 ---
 
-# 8. Quality Assurance
+# 6. Quality Assurance
 
 Quality checks were conducted throughout the classification process.
 
@@ -230,7 +230,7 @@ This ensured that automated classification outputs remained aligned with the int
 
 ---
 
-# 9. Strategic Analysis
+# 7. Strategic Analysis
 
 The final categorised dataset was analysed using Google Sheets pivot tables and visualisation tools.
 
@@ -270,7 +270,7 @@ Reviews classified under the Brand & Competition dimension were analysed to unde
 
 ---
 
-# 10. Visualisation
+# 8. Visualisation
 
 Final insights were communicated through:
 
