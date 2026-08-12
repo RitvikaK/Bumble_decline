@@ -126,7 +126,7 @@ The final strategic analysis and visualisations can be found in:
 
 View the full strategic analysis and presentation:
 
-[Add LinkedIn link]
+[(https://lnkd.in/p/dUsvQWG4)]
 
 ---
 
